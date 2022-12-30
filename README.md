@@ -1,8 +1,5 @@
 # EC-Nafiaufa MNC
 
-## Contoh Penggunaan
-Berikut ini adalah contoh penggunaan lengkap aplikasi menggunakan tool Postman:
-
 ## Login
 Request:
 ```bash
@@ -47,7 +44,6 @@ Response:
 Request:
 ```bash
 POST /logout
-```bash
 {
     "id": 1,
     "username": "user1",
