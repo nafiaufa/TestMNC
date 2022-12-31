@@ -47,7 +47,6 @@ Response:
 Request:
 ```bash
 POST /logout
-```bash
 {
     "id": 1,
     "username": "user1",
